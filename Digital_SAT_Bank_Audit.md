@@ -13,8 +13,9 @@ The practice banks scale those weights to 1,000 items each.
 ## Math
 
 - Items: 1000
-- Multiple choice / student-produced: 801 / 199
-- Difficulty: {'Easy': 326, 'Medium': 422, 'Hard': 252}
+- Multiple choice / student-produced: 810 / 190
+- Task families: 94. A family is a different job (a different unknown, representation, or decision), not one skeleton with new numbers.
+- Difficulty: {'Easy': 306, 'Medium': 484, 'Hard': 210}
 - Independently recomputed from the stem: 1000
 - Not recomputed: 0
 - Mismatches: 0
@@ -27,7 +28,8 @@ Reading and Writing keys were checked against the grammar or the data, not again
 
 - Items: 1000
 - Domains: {'Craft and Structure': 280, 'Information and Ideas': 260, 'Standard English Conventions': 260, 'Expression of Ideas': 200}
-- Difficulty: {'Easy': 166, 'Medium': 476, 'Hard': 358}
+- Task families: 52. Boundaries, transitions, rhetorical goals, table questions, and reading moves are separate families, not one template reused.
+- Difficulty: {'Easy': 203, 'Medium': 495, 'Hard': 302}
 - Key and choice failures: 0
 
 No mismatch was found between a recomputed answer and the printed key.
